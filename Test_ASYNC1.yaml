@@ -1,0 +1,9 @@
+asyncapi: "2.3.0"
+info:
+  title: "Test_ASYNC"
+  version: "1.2"
+  description: "DESC"
+servers: {}
+channels: {}
+components:
+  schemas: {}
